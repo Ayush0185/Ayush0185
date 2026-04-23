@@ -88,12 +88,5 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 </p>
 
 
-  <a href="mailto:shubamkumar3039@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 
-  <a href="https://leetcode.com/u/swarnqaar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-</p>
 
