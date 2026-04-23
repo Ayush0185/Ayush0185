@@ -72,31 +72,22 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnqaar&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush0185&theme=tokyo-night&hide_border=true" />
 
-## 🐍 Contribution Snake (Live Animation)
-
-![snake dark](https://github.com/swarnqaar/swarnqaar/blob/output/snake.svg)
 
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swarnqaar&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnqaar&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=Ayush0185&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0185&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnqaar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush0185&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kumar-02ab4a28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
   <a href="mailto:shubamkumar3039@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
