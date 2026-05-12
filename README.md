@@ -74,7 +74,9 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush0185&theme=tokyo-night&hide_border=true" />
 
+#🐍Contribution Snake (Live Animation)
 
+![snake dark](https://github.com /ChandanGhub/ChandanGhub/blob/output /snake.svg)
 
 ## 📊 GitHub Analytics
 
@@ -89,4 +91,20 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 
 
 
+#🌐Connect With Me
 
+<p align="center">
+
+<a href="https://github.com/Ayush0185">
+
+<img src="https://skillicons.dev/icons ?i=github" /> </a>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-8356a4376?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+
+<img src="https://skillicons.dev/icons ?i=linkedin" /> </a>
+
+<a href="mailto:ayushkumarkatharua1234@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" /> </a>
+
+</p>
