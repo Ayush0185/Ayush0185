@@ -76,7 +76,7 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 
 # 🐍 Contribution Snake (Live Animation)
 
-![snake dark](https://github.com/Ayush0185/Ayush0185/blob/output/snake.svg)
+![snake dark](https://raw.githubusercontent.com/Ayush0185/Ayush0185/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 📊 GitHub Analytics
