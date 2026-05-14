@@ -78,6 +78,30 @@ Email Me 👉 ✉️ **ayushkumarkatharua1234@gmail.com** For Collaboration/Proj
 
 ![snake dark](https://raw.githubusercontent.com/Ayush0185/Ayush0185/output/github-contribution-grid-snake-dark.svg)
 
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Ayush0185
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ## 📊 GitHub Analytics
 
